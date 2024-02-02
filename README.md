@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zaranasavani
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning dotnet MVCcore 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me zarana savani via LinkedIn
+- 📫 Reach me zarana savani via LinkedIn
 - 😄 Pronouns: zarana
 - ⚡ Fun fact : Books are the best friend of human
 # 📊 GitHub Stats:
