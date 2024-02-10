@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaranasavani
+- 👋 Hi, I’m zaranasavani
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning dotnet MVCcore 
 - 📫 Reach me zarana savani via LinkedIn
