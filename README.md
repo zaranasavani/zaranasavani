@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zarana savani
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning dotnet MVCcore 
+- 🌱 I’m currently learning computer vision
 - 📫 Reach me zarana savani via LinkedIn
 - 😄 Pronouns: zarana
 - ⚡ Fun fact : Books are the best friend of human
